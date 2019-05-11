@@ -12,8 +12,9 @@
 
 1. Esto es una lista númerada
 
-* Otra lista 1
-* Otra lista 2
+1. Otra lista 1
+2. Otra lista 2
+
 * Lista númerada 1
 * Lista númerada 2
 * Lista númerada 3
