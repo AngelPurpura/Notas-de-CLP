@@ -2,18 +2,28 @@
 
 ## Comandos de navegación
 
-**pwd** te indica el directorio donde estas
+| Comandos | Acción |
+| :--- | :--- |
+| **pwd** | Te indica el dirrectorio en donde estás |
+| **ls** | Enlista los archivos |
+| **cd \[Arg\]** | Cambia el directorio hacia \[arg\] |
+| **pushd-popd** | NO ME ACUERDOO AHHHHHH |
+| **mkdir \[Arg\]** | Crea un nuevo directorio \[arg\] |
+| **more** | Muestra el contenido del archivo por partes |
+| **cat** | Muestra todo el contenido del archivo |
+| **tail** | Muestra las ultimas 10 lineas del archivo |
 
-**ls** muestra una lista de los archivos en el directorio actual
+## Comandos de control y manipulación de streams
 
-```bash
-# Te indica en el dirrectorio actual donde estás
-pwd
-# Muestra una lista de los archivos en el directorio actual, cada comando puede tener 'banderas'.
-# -h Hace que sea más legible. -l despliega los archivos en forma de lista. -a Muestra los archivos ocultos
-ls
-#
-```
+| Comando | Acción |
+| :--- | :--- |
+| **\(CO\) &gt; 'archivo.log'** | El operador &gt; escribe los datos en al archivo 'archivo.log' |
+| **\(CO\) 1&gt;'log1' 2&gt;'log2'** | Escribe en los archivos 'log1' y 'log2' el STD\_OUT y STD\_ERROR respectivamente. |
+| **\(CO\) &gt; 'todo' 2&gt;&1** | Escribe en el archivo 'todo', el STD\_OUT y STD\_ERROR |
 
-## Comandos de manipulación
+## Comandos para control de procesos
+
+|  |  |
+| :--- | :--- |
+|  |  |
 
