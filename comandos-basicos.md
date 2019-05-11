@@ -1,8 +1,10 @@
-# Comandos de navegación
+# Comandos de básicos
 
+## Comandos de navegación
 
+```bash
 
+```
 
-# Comandos de manipulación
-
+## Comandos de manipulación
 
