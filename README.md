@@ -1,7 +1,6 @@
-# TITULO
+# Pues a ver si se quita la intro
 
 ## Subtitulo
-    lorem alidjkslaksjdlkasd ajsdhnkajsndjkasdkajsd
-    ajsdklajksldajsldkjaslkdasjdklajsdlkas
-    dasdkljasasdklajsldkjaklsdjjsdaksdjlasd
-    asdkllajsdlaiwjdilwjd
+
+Quiero ver que cambia por que esto es un parrafo :c 
+
