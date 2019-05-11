@@ -1,4 +1,4 @@
-# Titulo
+# Nombre 1, Nombre 2
 
 ## Subtitlo 1
 
@@ -10,16 +10,15 @@
 * Elemento de lista 2
 * Elemento de lista 3
 
+1. Esto es una lista númerada
+
 * Otra lista 1
 * Otra lista 2
-
-1. Lista númerada 1
-2. Lista númerada 2
-3. Lista númerada 3
-
-1. Otra lista númerada 1
-2. Otra lista númerada 2
-
+* Lista númerada 1
+* Lista númerada 2
+* Lista númerada 3
+* Otra lista númerada 1
+* Otra lista númerada 2
 * [ ] LISTA DE TAREAS 1
 * [ ] LISTA DE TAREAS 2
 
