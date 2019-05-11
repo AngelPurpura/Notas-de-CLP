@@ -1,8 +1,5 @@
 # Table of contents
 
-* [Pues a ver si se quita la intro](README.md)
+* [Comandos de básicos](comandos-basicos.md)
 
-## Capitulo 1
-
-* [Subtitulo 1](capitulo-1/subtitulo-1.md)
 
