@@ -10,6 +10,7 @@
 | **du -h** | enlista el tamaño de los archivos |
 | **pushd-popd** | NO ME ACUERDOO AHHHHHH |
 | **mkdir** | Crea un nuevo directorio \[arg\] |
+| **touch** | Crea un nuevo archivo o modifica la hora de acceso |
 | **more** | Muestra el contenido del archivo por partes |
 | **cat** | Muestra todo el contenido del archivo |
 | **tail** | Muestra las ultimas 10 lineas del archivo |
@@ -53,6 +54,16 @@
 | unzip | Descomprime un archivo .zip |
 | tar cfz \[archivo.tar.gz\] | Comprime |
 | tar xfz \[archivo.tar.gz\] | Descomprime |
+
+## Operadores de comandos
+
+| Operador | Acción |
+| :--- | :--- |
+| Pipe \| | Manda el STD\_OUT al STD\_IN del siguiente comando |
+| ; | Ejecuta el comando en orden, uno despues del otro |
+| && | No estoy seguro |
+| \(CO\) & | Manda el proceso a background, por lo tanto te brinda el ID y tener el contro sobre el proceso |
+| alias | Te permite renomabrar un comando o serie de comandos |
 
 ## Hotkeys en Mac
 
